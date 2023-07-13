@@ -1,2 +1,2 @@
-# Google Cloud Big Data and Machine Learning Fundamentals
-This course introduces the Google Cloud big data and machine learning products and services that support the data-to-AI lifecycle. It explores the processes, challenges, and benefits of building a big data pipeline and machine learning models with Vertex AI on Google Cloud.
+# Google Cloud Professional Data Engineer
+A Data Engineer designs and builds systems that collect and transform the data used to inform business decisions. This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the Data Engineer role. Once you complete the path, check out the Google Cloud Data Engineer certification to take the next steps in your professional journey.
